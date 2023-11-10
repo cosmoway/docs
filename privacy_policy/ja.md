@@ -12,6 +12,7 @@
 取得する情報、利用目的、第三者への提供等の詳細につきましては、以下のプライバシーポリシーのリンクよりご確認ください。
 
 [AdMob（Google Inc.）のプライバシーポリシー](https://policies.google.com/technologies/ads?hl=ja)
+
 [Firebase Analytics (Google Inc.)のプライバシーポリシー](https://policies.google.com/privacy?hl=ja%EF%BB%BF)
 
 2.2. お問い合わせやご意見を頂く際の個人情報の収集
